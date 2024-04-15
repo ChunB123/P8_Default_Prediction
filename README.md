@@ -1,5 +1,5 @@
 # P8_Default_Prediction
-P8: Alex, Michael, Steven, Yi Zhe
+P8: Haikun, Michael, Steven, Yi Zhe
 
 # Training data.
 ## 2D-CNN
